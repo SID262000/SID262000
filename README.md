@@ -1,8 +1,6 @@
 ### Hola, I'm Siddhant Kumar!! 👋
 
-**SID262000/SID262000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some intro about me:
 
 - 🔭 I’m currently working on INTELLIGENT VIDEO SURVILLIANCE
 - 🌱 I’m currently learning Problem Solving
