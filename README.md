@@ -2,7 +2,7 @@
 
 Here are some intro about me:
 
-- 🔭 I’m currently working on Game Developement using GDevelop
+- 🔭 I’m currently working on Augmented Reality/Virtual Reality
 - 🌱 I’m currently learning Problem Solving
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Problem Solving
